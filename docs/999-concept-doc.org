@@ -8,11 +8,21 @@
 #+LATEX_HEADER: \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm,portrait]{geometry}
 
 #+LATEX: \newpage
+* Community Vision
+- e.g. space to share/gain insights spending time on the problem
+- e.g. figuring best practices working with AI
+- e.g. knowledge exchange, the super-intelligence in action
+
+#+LATEX: \newpage
+* Values/principles
+- e.g. Intentionality - every event has a purpose for this community, at this moment. 
+
+#+LATEX: \newpage
 * Motivation/Why
 
 - AI is coming. Let's get ready. Together
-- We need to learn how to build AI-/agentic-systems
-- And/But we (also) need to learn how to use AI/agents to build these systems
+- We need to learn how to build AI-/agentic-systems - how augmentation looks like
+- And/But we (also) need to learn how to use AI/agents to build these systems and more (we don't know what will happen)
 - This meet up is about the later (not the former)
 
 #+LATEX: \newpage
