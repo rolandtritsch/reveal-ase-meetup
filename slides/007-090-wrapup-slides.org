@@ -5,7 +5,8 @@
 #+EMAIL: roland@tritsch.email
 #+REVEAL_VERSION: 4
 #+REVEAL_THEME: beige
-#+REVEAL_INIT_OPTIONS: width:"80%", slideNumber: "c/t"
+#+OPTIONS: reveal_width:1280 reveal_height:720 reveal_slide_number:c/t
+#+REVEAL_MARGIN: 0.06
 #+REVEAL_TITLE_SLIDE: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>%d</h3><h4 class=email>%e</h4><p class=date style="font-size: 0.5em">Version - {{{time(%Y-%m-%d_%H:%M:%S)}}}</p>
 #+OPTIONS: title:nil author:nil email:nil date:nil timestamp:nil
 #+OPTIONS: toc:nil num:nil
@@ -78,4 +79,4 @@ My take: 5 will become true. Which 5?
 
 * Thank you!
 
-#+REVEAL_HTML: <img src="./images/crest-ucd.svg" width="40%"/>
+#+REVEAL_HTML: <img class="r-stretch" src="./images/crest-ucd.svg"/>

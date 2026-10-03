@@ -5,7 +5,8 @@
 #+EMAIL: roland@tritsch.email
 #+REVEAL_VERSION: 4
 #+REVEAL_THEME: beige
-#+REVEAL_INIT_OPTIONS: width:"80%", slideNumber: "c/t"
+#+OPTIONS: reveal_width:1280 reveal_height:720 reveal_slide_number:c/t
+#+REVEAL_MARGIN: 0.06
 #+REVEAL_TITLE_SLIDE: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>%d</h3><h4 class=email>%e</h4><p class=date style="font-size: 0.5em">Version - {{{time(%Y-%m-%d_%H:%M:%S)}}}</p>
 #+REVEAL_HEAD_PREAMBLE: <style>.no-title h2 { display: none; }</style>
 #+OPTIONS: title:nil author:nil email:nil date:nil timestamp:nil
@@ -13,7 +14,7 @@
 
 * Welcome
 
-#+REVEAL_HTML: <img src="./images/robot.webp" width="50%"/>
+#+REVEAL_HTML: <img class="r-stretch" src="./images/robot.webp"/>
 
 * Roland
 
@@ -30,11 +31,11 @@
 
 * Roland
 
-#+REVEAL_HTML: <figure><img src="./images/van.png" width="80%"/><figcaption style="font-size: 0.5em;">Source: <a href="https://tedn.life">https://tedn.life</a></figcaption></figure>
+#+REVEAL_HTML: <figure><img class="r-stretch" src="./images/van.png"/><figcaption style="font-size: 0.5em;">Source: <a href="https://tedn.life">https://tedn.life</a></figcaption></figure>
 
 * Roland
 
-#+REVEAL_HTML: <figure><img src="./images/z-l-continuum_roland.png" width="100%"/><figcaption style="font-size: 0.5em;">Source: <a href="https://sub.thursdai.news/p/the-lopopolo-zechner-spectrum">https://sub.thursdai.news</a></figcaption></figure>
+#+REVEAL_HTML: <figure><img src="./images/z-l-continuum_roland.png" height="480"/><figcaption style="font-size: 0.5em;">Source: <a href="https://sub.thursdai.news/p/the-lopopolo-zechner-spectrum">https://sub.thursdai.news</a></figcaption></figure>
 
 * Thank you!
 
@@ -44,14 +45,14 @@
 
 * Why?
 
-#+REVEAL_HTML: <figure><img src="./images/agents-2026-II.png" width="70%"/><figcaption style="font-size: 0.5em;"><a href="https://sourcegraph.com/blog/revenge-of-the-junior-developer">Source: https://sourcegraph.com/blog/revenge-of-the-junior-developer</a></figcaption></figure>
+#+REVEAL_HTML: <figure><img class="r-stretch" src="./images/agents-2026-II.png"/><figcaption style="font-size: 0.5em;"><a href="https://sourcegraph.com/blog/revenge-of-the-junior-developer">Source: https://sourcegraph.com/blog/revenge-of-the-junior-developer</a></figcaption></figure>
 
 * What?
 :PROPERTIES:
 :REVEAL_EXTRA_ATTR: class="no-title"
 :END:
 
-#+REVEAL_HTML: <img src="./images/ai-systems-evolution.jpeg" width="50%"/>
+#+REVEAL_HTML: <img class="r-stretch" src="./images/ai-systems-evolution.jpeg"/>
 
 * How?
 

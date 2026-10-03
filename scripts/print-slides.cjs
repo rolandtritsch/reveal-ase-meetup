@@ -22,8 +22,8 @@ const url = baseUrl + separator + 'print-pdf' + (notesFlag ? '&showNotes=true' :
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
   const page = await browser.newPage();
-  // Wide landscape viewport so reveal's width:"80%" yields a landscape @page.
-  await page.setViewport({ width: 1400, height: 900 });
+  // Match the deck's widescreen aspect ratio; Reveal sets the PDF page size.
+  await page.setViewport({ width: 1280, height: 720 });
   await page.emulateMediaType('screen');
   await page.goto(url, { waitUntil: 'networkidle0', timeout: 60000 });
   await page.waitForFunction(
