@@ -1,6 +1,6 @@
 #+TITLE: Kickoff
 #+SUBTITLE: Augmented Software Engineering Meetup
-#+DATE: 17-Sep-2026
+#+DATE: 08-Oct-2026
 #+AUTHOR: Roland Tritsch
 #+EMAIL: roland@tritsch.email
 #+REVEAL_VERSION: 4
@@ -38,9 +38,9 @@
 
 * Thank you!
 
-#+REVEAL_HTML: <img src="./images/baseline.png" width="40%"/>
+#+REVEAL_HTML: <img src="./images/dublin-ai-week-logo.png" width="40%"/>
 #+REVEAL_HTML: <br>
-#+REVEAL_HTML: <img src="./images/abbey-capital-logo.webp" width="40%"/>
+#+REVEAL_HTML: <img src="./images/phorest-logo.png" width="40%"/>
 
 * Why?
 
@@ -56,7 +56,7 @@
 * How?
 
 - Cadence: Every 2 month
-  - Next one on Sep. 10th
+  - Next one on Nov., 19th
 - Call-for-Sponsors (!!!)
 - Call-for-Papers/Presentations (!!!)
   - Tools, Products, Platforms, ...
@@ -78,10 +78,9 @@
 
 - 18:00 - Opening doors (Pizza & Beers) - All
 - 18:30 - Kickoff - Roland
-- 18:45 - ??? - ???
-- 19:30 - ??? - ???
-- 20:15 - Wrap-up - Roland
-- 20:20 - More beers, more mingling - All
+- 18:45 - The (un)scientific path towards a software factory - Greg
+- 19:30 - The AOC factory (no slides/just code) - Roland
+- 20:00 - Wrap-up. More beers, more mingling - All
 
 * Questions (so far)?
 
