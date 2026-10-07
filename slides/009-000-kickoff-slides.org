@@ -39,9 +39,9 @@
 
 * Thank you!
 
-#+REVEAL_HTML: <img src="./images/dublin-ai-week-logo.png" width="40%"/>
+#+REVEAL_HTML: <img src="./images/dublin-ai-week-logo.png" width="30%"/>
 #+REVEAL_HTML: <br>
-#+REVEAL_HTML: <img src="./images/phorest-logo.png" width="40%"/>
+#+REVEAL_HTML: <img src="./images/phorest-logo.png" width="50%"/>
 
 * Why?
 
@@ -53,6 +53,13 @@
 :END:
 
 #+REVEAL_HTML: <img class="r-stretch" src="./images/ai-systems-evolution.jpeg"/>
+
+* What?
+:PROPERTIES:
+:REVEAL_EXTRA_ATTR: class="no-title"
+:END:
+
+#+REVEAL_HTML: <figure><img src="./images/loop-harness-factory.png" style="max-width:100%; height:auto;"/><figcaption style="font-size: 0.5em;">Source: <a href="https://addyo.substack.com/p/software-factories-light-and-dark">https://addyo.substack.com/p/software-factories-light-and-dark</a></figcaption></figure>
 
 * How?
 
@@ -66,14 +73,9 @@
 
 * Logistics
 
-#+REVEAL_HTML: <div style="display: flex; align-items: center; width: 100%;">
-#+REVEAL_HTML: <div style="width: 70%;">
 - Fire exit, restroom, no phones, no food (but drinks :)) ...
 - Slides/Videos will be available for download
 - **!!! Engagement !!!** (taking it from good to great)
-#+REVEAL_HTML: </div>
-#+REVEAL_HTML: <div style="width: 30%; display: flex; align-items: center; justify-content: center;"><img src="./images/robot.webp" width="80%"/></div>
-#+REVEAL_HTML: </div>
 
 * Agenda/Today
 
