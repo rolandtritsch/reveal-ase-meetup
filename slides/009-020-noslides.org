@@ -1,0 +1,55 @@
+#+TITLE: The (dark) AOC solver
+#+SUBTITLE: Augmented Software Engineering Meetup
+#+DATE: 08-Oct-2026
+#+AUTHOR: Roland Tritsch
+#+EMAIL: roland@tritsch.email
+#+REVEAL_VERSION: 4
+#+REVEAL_THEME: beige
+#+OPTIONS: reveal_width:1280 reveal_height:720 reveal_slide_number:c/t
+#+REVEAL_MARGIN: 0.06
+#+REVEAL_TITLE_SLIDE: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>%d</h3><h4 class=email>%e</h4><p class=date style="font-size: 0.5em">Version - {{{time(%Y-%m-%d_%H:%M:%S)}}}</p>
+#+REVEAL_HEAD_PREAMBLE: <style>.no-title h2 { display: none; }</style>
+#+OPTIONS: title:nil author:nil email:nil date:nil timestamp:nil
+#+OPTIONS: toc:nil num:nil 
+
+* Demo - Recipe (I/II)
+
+- Run the reset (done)
+- Show paperclip (model, runtime, governance)
+- Show company (harness)
+- Enable the heartbeat
+- Explain the problem we want to solve
+- Go back to paperclip and explain that there are 3 loops
+  - One over all parts (goal: all parts are solved)
+  - One over one part (goal: make the submission work)
+  - One over solving a part (goal: make tests pass)
+- Show that we have started to work on it
+
+* Demo - Recipe (II/II)
+
+- Show how much of the problems are solved (adventocode.com)
+- Show the factory dashboard (paperclip)
+- Show the company code (aoc-solver-2025)
+- Stop the container
+- Run 'sbt run' and 'sbt test'
+- Show how much tokens got consumed with openrouter
+
+* Demo - Take-a-ways
+
+- Do the math ...
+  - 8 days. USD 1/each
+  - 1 hour/each. For Senior Software Engineer. USD 100/hour (fully loaded)
+  - USD 8 vs USD 800
+- Next: Deploy/Run paperclip on AWS
+
+* Paperclip - Dashboard
+
+- Screenshot
+
+* Paperclip - Company
+
+- Screenshot
+
+* Advent-of-Code - 2025
+
+- Screenshot

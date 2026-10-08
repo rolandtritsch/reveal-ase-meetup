@@ -81,8 +81,9 @@
 
 - 18:00 - Opening doors (Pizza & Beers) - All
 - 18:30 - Kickoff - Roland
-- 18:45 - The (un)scientific path towards a software factory - Greg
-- 19:30 - The AOC factory (no slides/just code) - Roland
+- 18:45 - The AOC factory (no slides/just code) - Roland
+- 19:00 - The (un)scientific path towards a software factory - Greg
+- 19:45 - The AOC factory (no slides/just code) - Roland
 - 20:00 - Wrap-up. More beers, more mingling - All
 
 * Questions (so far)?
