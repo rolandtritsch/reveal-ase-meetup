@@ -97,15 +97,15 @@ Venue: Baseline/DBT-Labs, Dublin
 ** Presentations
 
 #+ATTR_LATEX: :align p{14cm}lll
-| Title                                                          | Presenter | Slides                                                                    | Video                                    |
-|----------------------------------------------------------------+-----------+---------------------------------------------------------------------------+------------------------------------------|
-| <60>                                                           | <15>      | <10>                                                                      | <10>                                     |
-|----------------------------------------------------------------+-----------+---------------------------------------------------------------------------+------------------------------------------|
-| Kickoff                                                        | Roland    | [[https://tedn.life/reveal-ase-meetup/004-000-kickoff-slides.html][Slides]]      |                                          |
-| Vibing beyond code: Project Management for the lazy            | René      | [[https://tedn.life/reveal-ase-meetup/004-010-design-coding.pdf][Slides]]      | [[https://youtu.be/Mcd-cnEWEtk][Video]]    |
-| Context Management Is All You Need                             | Jose      | [[https://tedn.life/reveal-ase-meetup/004-020-context-coding.pdf][Slides]]      | [[https://youtu.be/qBOOhsIpTz0][Video]]    |
-| Autonomous coding for out of distribution long running tasks   | Brian     | [[https://tedn.life/reveal-ase-meetup/004-030-real-coding.pdf][Slides]]      | [[https://youtu.be/SYsBEzcbcyU][Video]]    |
-| Wrap-up                                                        | Roland    | [[https://tedn.life/reveal-ase-meetup/004-090-wrapup-slides.html][Slides]]      |                                          |
+| Title                                                        | Presenter | Slides | Video |
+|--------------------------------------------------------------+-----------+--------+-------|
+| <60>                                                         | <15>      | <10>   | <10>  |
+|--------------------------------------------------------------+-----------+--------+-------|
+| Kickoff                                                      | Roland    | [[https://tedn.life/reveal-ase-meetup/004-000-kickoff-slides.html][Slides]] |       |
+| Vibing beyond code: Project Management for the lazy          | René      | [[https://tedn.life/reveal-ase-meetup/004-010-design-coding.pdf][Slides]] | [[https://youtu.be/Mcd-cnEWEtk][Video]] |
+| Context Management Is All You Need                           | Jose      | [[https://tedn.life/reveal-ase-meetup/004-020-context-coding.pdf][Slides]] | [[https://youtu.be/qBOOhsIpTz0][Video]] |
+| Autonomous coding for out of distribution long running tasks | Brian     | [[https://tedn.life/reveal-ase-meetup/004-030-real-coding.pdf][Slides]] | [[https://youtu.be/SYsBEzcbcyU][Video]] |
+| Wrap-up                                                      | Roland    | [[https://tedn.life/reveal-ase-meetup/004-090-wrapup-slides.html][Slides]] |       |
 
 #+LATEX: \newpage
 * 20-Nov-2025
@@ -181,3 +181,23 @@ Venue: Baseline, Dublin
 | Kickoff                                | Roland    | [[https://tedn.life/reveal-ase-meetup/008-000-kickoff-slides.html][Slides]] | [[https://youtu.be/s6sxDQXRKRU][Video]] |
 | The Augmented Software Engineering Org | Philip    | [[https://tedn.life/reveal-ase-meetup/008-010-philip.pdf][Slides]] | [[https://youtu.be/XaoeYWPwQQw][Video]] |
 | No slides. Only code - Paperclip       | Roland    | [[https://tedn.life/reveal-ase-meetup/008-020-noslides-slides.html][Slides]] | [[https://youtu.be/Gyah5FjZRao][Video]] |
+
+#+LATEX: \newpage
+* 08-Oct-2026
+
+** Dark Factories != Dark Magic
+
+Venue: Phorest Software, Dublin
+
+** Presentations
+
+#+ATTR_LATEX: :align p{14cm}llll
+| Title                                            | Presenter | Slides | Video | Notes |
+|--------------------------------------------------+-----------+--------+-------+-------|
+| <60>                                             | <15>      | <10>   | <10>  | <10>  |
+|--------------------------------------------------+-----------+--------+-------+-------|
+| Kickoff                                          | Roland    | [[https://tedn.life/reveal-ase-meetup/009-000-kickoff-slides.html][Slides]] | [[https://youtu.be/5K-rB_3GRCQ][Video]] |       |
+| AOC Solver Kickoff                               | Roland    | [[https://tedn.life/reveal-ase-meetup/009-020-noslides-slides.pdf][Slides]] | [[https://youtu.be/Z3qExFnFFa4][Video]] |       |
+| (Un)Scientific Path to (Dark) Software Factories | Greg      | [[https://tedn.life/reveal-ase-meetup/009-010-dark-factories-slides.pdf][Slides]] | [[https://youtu.be/6VCkXUR2GOE][Video]] |       |
+| AOC Solver Wrapup                                | Roland    | [[https://tedn.life/reveal-scala3-meetup/001-020-ai-slides.html][Slides]] | [[https://youtu.be/dCjCDJFQsAM][Video]] | [[https://tedn.life/2026/10/17/aoc-2025-dark-factories-for-the-win/][Blog]]  |
+| Wrap-up                                          | Roland    | [[https://tedn.life/reveal-ase-meetup/009-090-wrapup-slides.pdf][Slides]] | [[https://youtu.be/VcSqj2ChwIg][Video]] |       |

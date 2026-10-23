@@ -1,0 +1,32 @@
+#+TITLE: Wrap-Up
+#+SUBTITLE: Augmented Software Engineering Meetup
+#+DATE: 08-Oct-2026
+#+AUTHOR: Roland Tritsch
+#+EMAIL: roland@tritsch.email
+#+REVEAL_VERSION: 4
+#+REVEAL_THEME: beige
+#+OPTIONS: reveal_width:1280 reveal_height:720 reveal_slide_number:c/t
+#+REVEAL_MARGIN: 0.06
+#+REVEAL_TITLE_SLIDE: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>%d</h3><h4 class=email>%e</h4><p class=date style="font-size: 0.5em">Version - {{{time(%Y-%m-%d_%H:%M:%S)}}}</p>
+#+OPTIONS: title:nil author:nil email:nil date:nil timestamp:nil
+#+OPTIONS: toc:nil num:nil
+
+* Thoughts/Feedback?
+
+- Now or later?!?!
+- More of the same?!?!
+- Another one like this?!?!
+
+* Ask/Next!
+
+- CFP!!!
+- Sponsors!!!
+- Thu., Nov., 19th, 18:00!!!
+- ServiceNow!!!
+- Tables!!! Clean-Up!!!
+
+* Thank you!
+
+#+REVEAL_HTML: <img src="./images/dublin-ai-week-logo.png" width="30%"/>
+#+REVEAL_HTML: <br>
+#+REVEAL_HTML: <img src="./images/phorest-logo.png" width="50%"/>
