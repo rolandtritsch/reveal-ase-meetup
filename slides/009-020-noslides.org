@@ -1,4 +1,4 @@
-#+TITLE: The (dark) AOC solver
+#+TITLE: The (Dark) AOC solver
 #+SUBTITLE: Augmented Software Engineering Meetup
 #+DATE: 08-Oct-2026
 #+AUTHOR: Roland Tritsch
@@ -41,15 +41,3 @@
   - 1 hour/each. For Senior Software Engineer. USD 100/hour (fully loaded)
   - USD 8 vs USD 800
 - Next: Deploy/Run paperclip on AWS
-
-* Paperclip - Dashboard
-
-- Screenshot
-
-* Paperclip - Company
-
-- Screenshot
-
-* Advent-of-Code - 2025
-
-- Screenshot
