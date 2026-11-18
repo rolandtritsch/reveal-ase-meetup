@@ -1,5 +1,5 @@
 #+TITLE: Kickoff
-#+SUBTITLE: Release Notes: 2026 — ASE Meetup
+#+SUBTITLE: Dark Factories and Dark DevOps
 #+DATE: 19-Nov-2026
 #+AUTHOR: Roland Tritsch
 #+EMAIL: roland@tritsch.email
@@ -16,7 +16,7 @@
 
 #+REVEAL_HTML: <img class="r-stretch" src="./images/robot.webp"/>
 
-* Release Notes: 2026
+* Today
 
 - Turbo-Charging DevOps with AI
 - Looking back at 2026: build, release, operate
@@ -36,42 +36,36 @@ Speaker confirmed by Roland: Aktar (18:45 session).
 
 #+REVEAL_HTML: <figure><img src="./images/roland.png" width="80%"/><figcaption style="font-size: 0.5em;"><a href="https://tedn.life">Source: https://tedn.life</a></figcaption></figure>
 
-* Roland
-
-- (Fractional) CTO (Ailtir), VP Engineering, ...
-- Specialized in early (remote-first) start-ups
-- The Extreme Digital Nomad, The Augmented Software Engineer
-- Ex-IONA, Ex-Gilt, Ex-Nitro, Ex-Community, ...
-- SaaS, Distributed-Systems, Event-based Systems, ...
-- Functional Programing (Haskell, Scala, Elixir/Erlang, ...)
-
-* Roland
-
-#+REVEAL_HTML: <figure><img class="r-stretch" src="./images/van.png"/><figcaption style="font-size: 0.5em;">Source: <a href="https://tedn.life">https://tedn.life</a></figcaption></figure>
-
-* Roland
-
-#+REVEAL_HTML: <figure><img src="./images/z-l-continuum_roland.png" height="480"/><figcaption style="font-size: 0.5em;">Source: <a href="https://sub.thursdai.news/p/the-lopopolo-zechner-spectrum">https://sub.thursdai.news</a></figcaption></figure>
-
-* Co-organizers
+* Co-Organizers
 
 #+REVEAL_HTML: <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2em; align-items: start;">
 #+REVEAL_HTML: <div>
 #+REVEAL_HTML: <h3>Allen</h3>
 #+REVEAL_HTML: <img src="./images/allen-higgins-thumbnail.jpeg" alt="Allen" style="height: 190px; width: 190px; object-fit: cover;"/>
+#+REVEAL_HTML: <div style="font-size: 0.65em; text-align: left;">
+
+- Lecturer @ UCD School of Business
+- Hosts the Design Talk (dot IE) Podcast
+- ex-Havok (Games), ex-IONA (Distributed Systems), ex-...
+
+#+REVEAL_HTML: </div>
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML: <div>
 #+REVEAL_HTML: <h3>Sasha</h3>
 #+REVEAL_HTML: <img src="./images/sasha-thumbnail.png" alt="Sasha" style="height: 190px; width: 190px; object-fit: cover;"/>
 #+REVEAL_HTML: <div style="font-size: 0.65em; text-align: left;">
 
-- Executive coach and Enneagram practitioner.
-- Engineering and organizational transformation leader.
-- Connecting technology, organizations, and human awareness.
+- Executive coach/Enneagram practitioner
+- Engineering/Organizational transformation leader
+- Connecting technology/organizations/human awareness
 
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML: </div>
+
+* Roland
+
+#+REVEAL_HTML: <figure><img src="./images/z-l-continuum_roland.png" height="480"/><figcaption style="font-size: 0.5em;">Source: <a href="https://sub.thursdai.news/p/the-lopopolo-zechner-spectrum">https://sub.thursdai.news</a></figcaption></figure>
 
 * Thank you!
 
@@ -87,13 +81,6 @@ Speaker confirmed by Roland: Aktar (18:45 session).
 :END:
 
 #+REVEAL_HTML: <img class="r-stretch" src="./images/ai-systems-evolution.jpeg"/>
-
-* What?
-:PROPERTIES:
-:REVEAL_EXTRA_ATTR: class="no-title"
-:END:
-
-#+REVEAL_HTML: <figure><img src="./images/loop-harness-factory.png" style="max-width:100%; height:auto;"/><figcaption style="font-size: 0.5em;">Source: <a href="https://addyo.substack.com/p/software-factories-light-and-dark">https://addyo.substack.com/p/software-factories-light-and-dark</a></figcaption></figure>
 
 * How?
 
@@ -113,11 +100,11 @@ Speaker confirmed by Roland: Aktar (18:45 session).
 
 * Agenda/Today
 
-- 18:00 - Doors open. Pizza and beer - All
-- 18:30 - Welcome and kickoff - Roland & Sasha
+- 18:00 - Doors open. Pizza and Beer - All
+- 18:30 - Welcome and Kickoff - Roland
 - 18:45 - AI tools for troubleshooting performance issues - Aktar
 - 19:30 - No Slides, Just Code - Roland
-- 20:00 - Wrap-up, more beers and networking - Roland & Sasha
+- 20:00 - Wrap-up, more beers and networking - Roland
 
 * Questions (so far)?
 
