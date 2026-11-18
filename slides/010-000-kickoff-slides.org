@@ -53,6 +53,26 @@ Speaker confirmed by Roland: Aktar (18:45 session).
 
 #+REVEAL_HTML: <figure><img src="./images/z-l-continuum_roland.png" height="480"/><figcaption style="font-size: 0.5em;">Source: <a href="https://sub.thursdai.news/p/the-lopopolo-zechner-spectrum">https://sub.thursdai.news</a></figcaption></figure>
 
+* Co-organizers
+
+#+REVEAL_HTML: <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2em; align-items: start;">
+#+REVEAL_HTML: <div>
+#+REVEAL_HTML: <h3>Allen</h3>
+#+REVEAL_HTML: <img src="./images/allen-higgins-thumbnail.jpeg" alt="Allen" style="height: 190px; width: 190px; object-fit: cover;"/>
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <div>
+#+REVEAL_HTML: <h3>Sasha</h3>
+#+REVEAL_HTML: <img src="./images/sasha-thumbnail.png" alt="Sasha" style="height: 190px; width: 190px; object-fit: cover;"/>
+#+REVEAL_HTML: <div style="font-size: 0.65em; text-align: left;">
+
+- Executive coach and Enneagram practitioner.
+- Engineering and organizational transformation leader.
+- Connecting technology, organizations, and human awareness.
+
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: </div>
+
 * Thank you!
 
 #+REVEAL_HTML: <img src="./images/servicenow.png" width="50%"/>
