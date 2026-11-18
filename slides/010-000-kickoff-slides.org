@@ -1,0 +1,104 @@
+#+TITLE: Kickoff
+#+SUBTITLE: Release Notes: 2026 — ASE Meetup
+#+DATE: 19-Nov-2026
+#+AUTHOR: Roland Tritsch
+#+EMAIL: roland@tritsch.email
+#+REVEAL_VERSION: 4
+#+REVEAL_THEME: beige
+#+OPTIONS: reveal_width:1280 reveal_height:720 reveal_slide_number:c/t
+#+REVEAL_MARGIN: 0.06
+#+REVEAL_TITLE_SLIDE: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>%d</h3><h4 class=email>%e</h4><p class=date style="font-size: 0.5em">Version - {{{time(%Y-%m-%d_%H:%M:%S)}}}</p>
+#+REVEAL_HEAD_PREAMBLE: <style>.no-title h2 { display: none; }</style>
+#+OPTIONS: title:nil author:nil email:nil date:nil timestamp:nil
+#+OPTIONS: toc:nil num:nil
+
+* Welcome
+
+#+REVEAL_HTML: <img class="r-stretch" src="./images/robot.webp"/>
+
+* Release Notes: 2026
+
+- Turbo-Charging DevOps with AI
+- Looking back at 2026: build, release, operate
+- Looking ahead: what might 2027 bring?
+
+#+BEGIN_NOTES
+
+Thursday, 19 November 2026, 18:00–20:00 GMT.
+ServiceNow Ireland, 60 Dawson St, Dublin 2, D02 K330.
+Event details and agenda checked on 18 November 2026:
+https://www.meetup.com/the-augmented-software-engineer/events/317188693/
+Speaker confirmed by Roland: Aktar (18:45 session).
+
+#+END_NOTES
+
+* Roland
+
+#+REVEAL_HTML: <figure><img src="./images/roland.png" width="80%"/><figcaption style="font-size: 0.5em;"><a href="https://tedn.life">Source: https://tedn.life</a></figcaption></figure>
+
+* Roland
+
+- (Fractional) CTO (Ailtir), VP Engineering, ...
+- Specialized in early (remote-first) start-ups
+- The Extreme Digital Nomad, The Augmented Software Engineer
+- Ex-IONA, Ex-Gilt, Ex-Nitro, Ex-Community, ...
+- SaaS, Distributed-Systems, Event-based Systems, ...
+- Functional Programing (Haskell, Scala, Elixir/Erlang, ...)
+
+* Roland
+
+#+REVEAL_HTML: <figure><img class="r-stretch" src="./images/van.png"/><figcaption style="font-size: 0.5em;">Source: <a href="https://tedn.life">https://tedn.life</a></figcaption></figure>
+
+* Roland
+
+#+REVEAL_HTML: <figure><img src="./images/z-l-continuum_roland.png" height="480"/><figcaption style="font-size: 0.5em;">Source: <a href="https://sub.thursdai.news/p/the-lopopolo-zechner-spectrum">https://sub.thursdai.news</a></figcaption></figure>
+
+* Thank you!
+
+#+REVEAL_HTML: <img src="./images/servicenow.png" width="50%"/>
+
+* Why?
+
+#+REVEAL_HTML: <figure><img class="r-stretch" src="./images/agents-2026-II.png"/><figcaption style="font-size: 0.5em;"><a href="https://sourcegraph.com/blog/revenge-of-the-junior-developer">Source: https://sourcegraph.com/blog/revenge-of-the-junior-developer</a></figcaption></figure>
+
+* What?
+:PROPERTIES:
+:REVEAL_EXTRA_ATTR: class="no-title"
+:END:
+
+#+REVEAL_HTML: <img class="r-stretch" src="./images/ai-systems-evolution.jpeg"/>
+
+* What?
+:PROPERTIES:
+:REVEAL_EXTRA_ATTR: class="no-title"
+:END:
+
+#+REVEAL_HTML: <figure><img src="./images/loop-harness-factory.png" style="max-width:100%; height:auto;"/><figcaption style="font-size: 0.5em;">Source: <a href="https://addyo.substack.com/p/software-factories-light-and-dark">https://addyo.substack.com/p/software-factories-light-and-dark</a></figcaption></figure>
+
+* How?
+
+- Cadence: Every 2 months
+  - Next meetup: Thu., 21 January 2027
+- Call-for-Sponsors (!!!)
+- Call-for-Papers/Presentations (!!!)
+  - Tools, Products, Platforms, ...
+  - Best Practices, Experience, ...
+  - Processes, Workflows, ...
+
+* Logistics
+
+- Fire exit, restroom, no phones, no food (but drinks :)) ...
+- Slides/Videos will be available for download
+- **!!! Engagement !!!** (taking it from good to great)
+
+* Agenda/Today
+
+- 18:00 - Doors open. Pizza and beer - All
+- 18:30 - Welcome and kickoff - Roland & Sasha
+- 18:45 - AI tools for troubleshooting performance issues - Aktar
+- 19:30 - No Slides, Just Code - Roland
+- 20:00 - Wrap-up, more beers and networking - Roland & Sasha
+
+* Questions (so far)?
+
+#+REVEAL_HTML: <img src="./images/questions.webp" width="60%"/>

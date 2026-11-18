@@ -1,0 +1,63 @@
+#+TITLE: No Slides, Just Code
+#+SUBTITLE: Release Notes: 2026 — ASE Meetup
+#+DATE: 19-Nov-2026
+#+AUTHOR: Roland Tritsch
+#+EMAIL: roland@tritsch.email
+#+REVEAL_VERSION: 4
+#+REVEAL_THEME: beige
+#+OPTIONS: reveal_width:1280 reveal_height:720 reveal_slide_number:c/t
+#+REVEAL_MARGIN: 0.06
+#+REVEAL_TITLE_SLIDE: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>%d</h3><h4 class=email>%e</h4><p class=date style="font-size: 0.5em">Version - {{{time(%Y-%m-%d_%H:%M:%S)}}}</p>
+#+REVEAL_HEAD_PREAMBLE: <style>.no-title h2 { display: none; }</style>
+#+OPTIONS: title:nil author:nil email:nil date:nil timestamp:nil
+#+OPTIONS: toc:nil num:nil
+
+* The (Dark) AOC solver
+
+- From a problem to a working solution
+- Paperclip: model, runtime, governance
+- What worked? What needed human judgement?
+
+#+BEGIN_NOTES
+
+19:30 — Roland's live demo slot.
+AOC solver recipe carried forward from the October deck.
+Before presenting, reset the demo and confirm the current repository,
+container, dashboard and token-usage views are ready.
+
+#+END_NOTES
+
+* Demo - Recipe (I/II)
+
+- Run the reset (done)
+- Show paperclip (model, runtime, governance)
+- Show company (harness)
+- Enable the heartbeat
+- Explain the problem we want to solve
+- Go back to paperclip and explain that there are 3 loops
+  - One over all parts (goal: all parts are solved)
+  - One over one part (goal: make the submission work)
+  - One over solving a part (goal: make tests pass)
+- Show that we have started to work on it
+
+* Demo - Recipe (II/II)
+
+- Show how much of the problems are solved (adventofcode.com)
+- Show the factory dashboard (paperclip)
+- Show the company code (aoc-solver-2025)
+- Stop the container
+- Run 'sbt run' and 'sbt test'
+- Show how much tokens got consumed with openrouter
+
+* Demo - Takeaways
+
+- What ran autonomously? Where did we intervene?
+- Compare verified results, elapsed time and token cost
+- What would it take to build, release and operate this reliably?
+
+#+BEGIN_NOTES
+
+Use measurements from this run. The October deck's solved-problem counts,
+cost estimates and AWS next step are not assumed to apply to this demo.
+
+#+END_NOTES
